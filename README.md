@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="[Imgur](https://imgur.com/u2E6S7h)" width="180px" alt="SPIRITY-XMD Logo"/><br>
+  <img src="https://i.imgur.com/u2E6S7h.png" width="180px" alt="SPIRITY-XMD Logo"/><br>
   <strong>SPIRITY-XMD V2</strong>
 </h1>
+
 
 <p align="center">
   <i>Bot WhatsApp avancé — Sécurité, outils & puissance à portée de chat.</i>
