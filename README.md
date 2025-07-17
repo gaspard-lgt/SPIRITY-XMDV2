@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://files.catbox.moe/fta4xd.jpg" width="180px" alt="SPIRITY-XMD Logo"/><br>
+  <img src="[Imgur](https://imgur.com/u2E6S7h)" width="180px" alt="SPIRITY-XMD Logo"/><br>
   <strong>SPIRITY-XMD V2</strong>
 </h1>
 
@@ -35,7 +35,7 @@
 ### 🌐 Pairing Code
 > Générez votre session WhatsApp :
 
-🔗 [**SPIRITY-XMD Pairing**](https://spirity-xmd-pairing.vercel.app/)
+🔗 [**SPIRITY-XMD Pairing**](https://spirity-xmd-web.onrender.com/)
 
 ### ☁️ Heroku (bientôt)
 ```bash
