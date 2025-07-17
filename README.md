@@ -47,8 +47,9 @@ Conçu avec une architecture flexible et moderne, il combine sécurité, command
 
 ## 🚀 Déploiement rapide
 
-### 🌐 Obtenir une Session ID
-Générez votre QR code pour connexion rapide :
+### 🌐 Obtenir un identifiant de session
+
+Générez votre QR code pour une connexion rapide :
 
 [![OBTENIR UNE SESSION](https://img.shields.io/badge/🚀 Obtenir%20une%20Session%20ID-CLIQUER-9c27b0?style=for-the-badge)](https://spirity-xmd-web.onrender.com/)
 
