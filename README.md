@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🤖 Bot WhatsApp avancé pour groupes, automation et contrôle total.
+  🤖 Bot WhatsApp nouvelle génération — Gestion, sécurité, IA & automatisation.
 </p>
 
 <p align="center">
@@ -27,21 +27,34 @@
 
 ## 🧠 Présentation
 
-> **SPIRITY-XMDV2** est un bot WhatsApp ultra-puissant, pensé pour automatiser, sécuriser et gérer efficacement vos groupes WhatsApp.
-
-Conçu avec une architecture flexible et moderne, il combine sécurité, commandes admin, outils médias, et intelligence artificielle (en cours de développement).
+> **SPIRITY-XMDV2** est un bot WhatsApp puissant et évolutif pour automatiser, sécuriser et contrôler vos groupes.  
+> Il combine outils d'administration, protection avancée, médias, multilingue et bientôt : **IA intégrée**.
 
 ---
 
 ## ⚙️ Fonctionnalités clés
 
-- 🔐 **Anti-link**, anti-fake, anti-bot
-- 🛠️ **Commandes admin** : kick, ban, welcome, goodbye
-- 🧠 **IA conversationnelle** *(bientôt)*
-- 🎵 Téléchargement de médias (YT, TikTok, IG...)
-- 🌍 Multilingue : Français 🇫🇷 & Anglais 🇬🇧
-- 🖼️ Menus contextuels interactifs
-- ⌨️ Commandes générales : menu, info, time...
+- 🔐 Anti-link, anti-fake, anti-bot  
+- 🛠️ Commandes admin : kick, ban, mute, welcome/goodbye  
+- 🧠 IA conversationnelle *(à venir)*  
+- 🎵 Téléchargement : YouTube, TikTok, Instagram  
+- 📜 Menu intelligent, commandes outils/info  
+- 🌍 Multilingue : Français 🇫🇷 & Anglais 🇬🇧  
+- 🖼️ Menus contextuels interactifs  
+
+---
+
+## 🌍 Déploiement flexible
+
+SPIRITY-XMDV2 peut être déployé facilement sur plusieurs plateformes, selon tes préférences :
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🖥️%20VPS-484848?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
+  <img src="https://img.shields.io/badge/Hostinger-FF6C2C?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Render-6746F1?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-8C8C8C?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+</p>
 
 ---
 
@@ -49,11 +62,34 @@ Conçu avec une architecture flexible et moderne, il combine sécurité, command
 
 ### 🌐 Obtenir un identifiant de session
 
-Générez votre QR code pour une connexion rapide :
+Générez votre QR code WhatsApp instantanément :  
 
-[![OBTENIR UNE SESSION](https://img.shields.io/badge/🚀 Obtenir%20une%20Session%20ID-CLIQUER-9c27b0?style=for-the-badge)](https://spirity-xmd-web.onrender.com/)
+[![OBTENIR UNE SESSION](https://img.shields.io/badge/🚀%20Obtenir%20une%20Session%20ID-CLIQUER-9c27b0?style=for-the-badge)](https://spirity-xmd-web.onrender.com/)
 
-### ☁️ Déploiement Heroku *(à venir)*
+---
+
+## 📥 Télécharger les versions
+
+| Version | Lien GitHub | Description |
+|--------|-------------|-------------|
+| 🆕 **V2** | [![SPIRITY-XMDV2](https://img.shields.io/badge/SPIRITY--XMDV2-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NICE-DEV226/SPIRITY-XMDV2) | Version avancée, plus rapide, interface Web |
+| 🧪 **V1** | [![SPIRITY-XMD](https://img.shields.io/badge/SPIRITY--XMD%20V1-Repo-orange?style=for-the-badge&logo=github)](https://github.com/DARKMAN226/SPIRITY-XMD) | Ancienne version stable, base solide |
+
+---
+
+## 📦 Installation manuelle
+
+### ⚙️ Prérequis
+
+- Node.js 18 ou plus  
+- Git  
+- WhatsApp (compte personnel)  
+- Terminal (bash / cmd)  
+
+### 🧰 Étapes d'installation
 
 ```bash
-# À venir : déploiement en un clic sur Heroku
+git clone https://github.com/NICE-DEV226/SPIRITY-XMDV2.git
+cd SPIRITY-XMDV2
+npm install
+npm start
