@@ -72,7 +72,7 @@ Générez votre QR code WhatsApp instantanément :
 
 | Version | Lien GitHub | Description |
 |--------|-------------|-------------|
-| 🆕 **V2** | [![SPIRITY-XMDV2](https://img.shields.io/badge/SPIRITY--XMDV2-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NICE-DEV226/SPIRITY-XMDV2) | Version avancée, plus rapide, interface Web |
+| 🆕 **V2** | [![SPIRITY-XMDV2](https://img.shields.io/badge/SPIRITY--XMDV2-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NICE-DEV226/SPIRITY-XMDV2) | Version avancée, plus rapide |
 | 🧪 **V1** | [![SPIRITY-XMD](https://img.shields.io/badge/SPIRITY--XMD%20V1-Repo-orange?style=for-the-badge&logo=github)](https://github.com/DARKMAN226/SPIRITY-XMD) | Ancienne version stable, base solide |
 
 ---
